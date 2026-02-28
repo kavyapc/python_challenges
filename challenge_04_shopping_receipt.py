@@ -1,4 +1,3 @@
-
 name1 = (input("enter item1 name:"))
 
 price1 = float(input("enter item1 price:"))
@@ -16,5 +15,6 @@ print(f"{name2}      ${price2}")
 print(f"{name3}      ${price3}")
 print("------------------------------------------")
 total = price1+price2+price3
+
 
 print(f" TOTAL =    ${total:.2f}")
