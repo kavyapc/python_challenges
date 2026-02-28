@@ -32,7 +32,7 @@
 **Solution file:** `challenge_03_temperature_converter.py`
 
 **Output:**
-<img width="497" height="118" alt="image" src="https://github.com/user-attachments/assets/95d424b8-fd8e-45a3-9d84-f078991f5b64" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/95d424b8-fd8e-45a3-9d84-f078991f5b64" />
 
 
 ###  Challenge 5 — Profile Card
@@ -41,5 +41,5 @@
 **Solution file:** `challenge_05_profile_card.py`
 
 **Output:**
-<img width="497" height="118" alt="image" src="https://github.com/user-attachments/assets/1418c0f3-93ee-4a16-8315-82f73780dcd2" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/1418c0f3-93ee-4a16-8315-82f73780dcd2" />
 
